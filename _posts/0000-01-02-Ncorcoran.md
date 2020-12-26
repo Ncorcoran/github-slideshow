@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "this is my new slide message!"
 ---
-Your text
-Use the left arrow to go back!
+what is a pull request?
+the pull request is to help address an issue that is ongoing
